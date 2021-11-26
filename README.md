@@ -1,2 +1,2 @@
-# React-chat-application
+# React-demo
 This is chat application using react
